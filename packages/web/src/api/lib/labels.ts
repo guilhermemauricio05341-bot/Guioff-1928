@@ -1,0 +1,18 @@
+export const CATEGORY_LABELS: Record<string, string> = {
+  alimentacao: "Alimentação",
+  mercado: "Mercado",
+  transporte: "Transporte",
+  lazer: "Lazer",
+  contas: "Contas",
+  moradia: "Moradia",
+  saude: "Saúde",
+  educacao: "Educação",
+  compras: "Compras",
+  assinaturas: "Assinaturas",
+  viagem: "Viagem",
+  impostos: "Impostos",
+  investimentos: "Investimentos",
+  transferencias: "Transferências",
+  receitas: "Receitas",
+  outros: "Outros",
+};
